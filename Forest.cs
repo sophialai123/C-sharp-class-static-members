@@ -74,8 +74,6 @@ namespace StaticMembers
     {
      get {return treeFacts;}
     }
-    
-
         //Methods
         public int Grow(){
           Trees +=30;
